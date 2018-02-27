@@ -8,4 +8,6 @@ Yuri here
 
 SSH included
 
+SSH Password
+
 
